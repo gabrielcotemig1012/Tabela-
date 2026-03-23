@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body { background-color: rgb(255, 255, 255);}
+
+.borda { border: solid; width: 5%;height:7vh;color: rgb(7, 7, 7); margin: auto ;border-radius: 10px;
+}
+.borda_inv { border: solid; width: 5%;height:7vh;color: rgba(7, 7, 7, 0); margin: auto ;border-radius: 10px;
+}
+
+table {margin: auto;}
+
+tr {text-align: center;}
+div{ 
+   text-align: left;
+}
+ #um{  border: solid; background-color: rgb(173, 238, 135);}
+#dois {  border: solid; background-color: rgb(245, 189, 115);}
+#tres {  border: solid; background-color: rgb(252, 237, 103);}
+#quatro {  border: solid; background-color: rgb(255, 193, 172);}
+#cinco  {  border: solid; background-color: rgb(132, 211, 235);}
+#seis {  border: solid; background-color: rgb(240, 201, 255);}
+#sete{  border: solid; background-color: rgb(153, 196, 216);}
+#oito {  border: solid; background-color: rgb(139, 182, 164);}
+#nove {  border: solid; background-color: rgb(126, 216, 130);}
+#dez {  border: solid; background-color: rgb(180, 240, 255);}
+#onze {  border: solid; background-color: rgb(37, 139, 207);}
+
+
